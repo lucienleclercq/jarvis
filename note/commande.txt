@@ -1,0 +1,19 @@
+profil 
+credit journalier -> bonjour
+privet 
+    /info 
+    /jeux
+    the beginning of the war
+        acceptez
+        mage/assassin/paladin/archer/necromentien
+        cree guerrier 'nom' 'lien' 'evolution
+
+the guardian-s war
+    /help war
+    afficher portail/attaque
+    Gafficher 'nom'
+    Ggo
+    donner 'item' a 'nom'
+    inventaire
+    choisir pouvoir 'n°du pouvoir' 'choix du pouvoir'
+    cree guerrier 'nom' 'lien' 'evolution

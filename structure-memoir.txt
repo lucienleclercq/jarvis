@@ -1,0 +1,41 @@
+guerrier : 
+    type
+    objet -> tab 4
+    vie 
+    xp
+    niveaux
+    faim
+    soif
+    lieux
+    delay
+    cout
+    sexe
+    recherche
+    maitre
+    evolution
+    lien
+    tempattaque
+    buf
+
+
+buf/maluse : 
+    type : 
+        1 = stun
+        2 = heal
+    temps
+
+maitre : 
+    inventaire -> tab
+    classe
+    url
+    vie
+    buf
+    niveaux
+    pouvoir-> tab
+
+pouvoir : 
+    dega
+    temps
+    buf 
+    maluse
+    niveaux

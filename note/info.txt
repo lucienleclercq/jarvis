@@ -1,0 +1,101 @@
+type de coup : 
+    1 = coup unique 
+jj
+etendut : 
+    0 = 1 cible 
+    -1 = tout
+
+pouvoir soutien : 
+    1 = defence 
+    2 = stun 
+    3 = heal 
+
+objet guerrier : 
+    1 = lunnette
+    2 = casque
+    3 = bote
+
+position objet tablaux inventaire :
+    0 = lagepotion
+    1 = sucette
+    2 = hotdog
+    3 = nouriture
+    4 = boisson
+    5 = zap
+    6 = pasteque
+    7 = potion
+    8 = omelette
+
+lieux : 
+    0 = infirmerie
+    1 = dojo
+    2 = pied
+    3 = cantine
+    4 = morgue
+    5 = cimetiere
+    6 = portail
+
+classe : 
+    1 = mage
+    2 = assassin
+    3 = paladin
+    4 = archer 
+
+paladin : 
+    pouvoir 1 : 
+        frappe sismique 
+
+    pouvoir 2 - 3: 
+        bouclier
+        enchentement arme
+        claymore
+        heal (soi)
+        charge
+    pouvoir ulti :
+        crie de guerre 
+        eclat celeste -> dega plus stun
+
+archer : 
+    pouvoir 1 : 
+        fleche : 
+            explo
+            sopo
+            empoisoner
+            glace
+    pouvoir 2-3:
+        piege
+        tire multiple
+        pluit de fleche
+    pouvoir ulti: 
+        guerrier charge
+        tir orbital
+
+mage : 
+    pouvoir 1 :
+         magie elementaire
+    pouvoir 2-3: 
+        defence elementaire
+    pouvoir ulti:
+        1 = stun(tout)
+        2 = heal (tout)
+
+assassin : 
+    pouvoir 1 : 
+        furie
+        attaque dague
+    pouvoir 2-3:
+        stun
+        poison
+        coup rapide
+    pouvoir ulti	
+        camouflage(critique +)
+        coup fatal
+
+elementaire : 
+    1 = feux
+    2 = eaux
+    3 = terre
+    4 = lave
+    5 = sable
+    6 = foudre
+

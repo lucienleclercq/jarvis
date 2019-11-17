@@ -1,0 +1,12 @@
+classe +++++
+    choi classe
+    utilisation classe
+    changement classe
+argent ++
+    recuperer de l'agent : 
+        travail ? 
+        jeux
+
+vote +
+
+
